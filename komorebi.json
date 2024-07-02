@@ -11,7 +11,14 @@
   "manage_rules": [
     {
       "kind": "Title",
-      "id": "EPLAN",
+      "id": "EPLAN Pro Panel ",
+      "matching_strategy": "StartsWith"
+    }
+  ],
+  "float_rules": [
+    {
+      "kind": "Class",
+      "id": "BCGPMiniFrame:40000000",
       "matching_strategy": "StartsWith"
     }
   ],
